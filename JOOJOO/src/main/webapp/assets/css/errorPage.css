@@ -1,0 +1,19 @@
+
+.error-link {
+    text-align: center;
+    width: 280px;
+    display: block;
+    margin: 0 auto;
+    background-color: #FF4D63;
+    color: white;
+    padding: 12px 26px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+    font-size: 16px;
+    white-space: normal; /* 텍스트 줄 바꿈 처리 */
+}
+
+.error-link:hover {
+    background-color: #CC3D4E;
+}
